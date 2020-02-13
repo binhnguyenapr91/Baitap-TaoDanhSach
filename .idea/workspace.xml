@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fb9fca5-7122-41f2-8d26-b362594ba213" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple-HTML/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple-HTML/.idea/Simple-HTML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple-HTML/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple-HTML/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple-HTML/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple-HTML/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampleJS/.idea/ExampleJS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampleJS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampleJS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampleJS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampleJS/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Xl4o2UBFt87LqEw5RULyG8h7GR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fb9fca5-7122-41f2-8d26-b362594ba213" name="Default Changelist" comment="" />
+      <created>1581607518896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581607518896</updated>
+      <workItem from="1581607519978" duration="1124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1119" y="257" key="search.everywhere.popup" timestamp="1581608315930">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1119" y="257" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1581608315930" />
+  </component>
+</project>
